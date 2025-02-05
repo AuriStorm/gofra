@@ -1,3 +1,3 @@
 # GOFRA
 
-## Yet another go message queue sample service 
+## Yet another go message queue sample service
